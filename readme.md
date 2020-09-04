@@ -15,3 +15,6 @@ Playlist com dicas
 
 [Competitive Programming Classes](https://github.com/lusmoura/CompetitiveProgramming-Classes)
 Textos sobre programação competitiva em português
+
+[Canal sobre Programação Comeptitiva](https://www.youtube.com/channel/UCPtaNhXlx1W1-X17GV5Byxw)
+Canal ministrado pelo professor Edson Alves com curso
